@@ -8,29 +8,31 @@
 <p><strong class="example">Example 1:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;abbcccaa&quot;
+<strong>Input:</strong> s = "abbcccaa"
 <strong>Output:</strong> 13
 <strong>Explanation:</strong> The homogenous substrings are listed as below:
-&quot;a&quot;   appears 3 times.
-&quot;aa&quot;  appears 1 time.
-&quot;b&quot;   appears 2 times.
-&quot;bb&quot;  appears 1 time.
-&quot;c&quot;   appears 3 times.
-&quot;cc&quot;  appears 2 times.
-&quot;ccc&quot; appears 1 time.
-3 + 1 + 2 + 1 + 3 + 2 + 1 = 13.</pre>
+"a"   appears 3 times.
+"aa"  appears 1 time.
+"b"   appears 2 times.
+"bb"  appears 1 time.
+"c"   appears 3 times.
+"cc"  appears 2 times.
+"ccc" appears 1 time.
+3 + 1 + 2 + 1 + 3 + 2 + 1 = 13.
+</pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;xy&quot;
+<strong>Input:</strong> s = "xy"
 <strong>Output:</strong> 2
-<strong>Explanation:</strong> The homogenous substrings are &quot;x&quot; and &quot;y&quot;.</pre>
+<strong>Explanation:</strong> The homogenous substrings are "x" and "y".
+</pre>
 
 <p><strong class="example">Example 3:</strong></p>
 
 <pre>
-<strong>Input:</strong> s = &quot;zzzzz&quot;
+<strong>Input:</strong> s = "zzzzz"
 <strong>Output:</strong> 15
 </pre>
 
@@ -38,6 +40,6 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>s</code> consists of lowercase letters.</li>
+<li><code>1 <= s.length <= 10<sup>5</sup></code></li>
+<li><code>s</code> consists of lowercase letters.</li>
 </ul>

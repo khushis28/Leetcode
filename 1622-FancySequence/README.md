@@ -1,7 +1,5 @@
 //POTD - Leetcode
 
-//POTD - leetcode
-
 <h2><a href="https://leetcode.com/problems/fancy-sequence">1622. Fancy Sequence</a></h2><h3>Hard</h3><hr><p>Design an API that builds and modifies a sequence using different operations.</p>
 
 <p>Implement the <strong>Fancy</strong> class:</p>

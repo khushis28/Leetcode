@@ -1,4 +1,3 @@
-//POTD - leetcode
 
 <h2><a href="https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k">3070. Count Submatrices with Top-Left Element and Sum Less Than k</a></h2><h3>Medium</h3><hr>
 
